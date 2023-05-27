@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="profile_image">profile image</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="name_felippe">Felippe Neves</string>
+    <string name="android_compose_programmer">Android Compose Programmer</string>
+    <string name="project_1">Project 1</string>
+    <string name="project_2">Project 2</string>
+    <string name="project_3">Project 3</string>
+
+</resources>
